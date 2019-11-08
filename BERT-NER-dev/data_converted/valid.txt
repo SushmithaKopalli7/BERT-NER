@@ -1,0 +1,444 @@
+-DOCSTART- -X- -X- O
+
+710 NNP B-NP O
+Online NNP B-NP O
+in NNP B-NP O
+India NNP B-NP O
+. NNP B-NP O
+
+Shop NNP B-NP O
+Online NNP B-NP O
+For NNP B-NP O
+Apparels NNP B-NP O
+. NNP B-NP O
+
+Huge NNP B-NP O
+Collection NNP B-NP O
+of NNP B-NP O
+Branded NNP B-NP O
+Clothes NNP B-NP O
+Only NNP B-NP O
+at NNP B-NP O
+Flipkart.com NNP B-NP O
+
+Soie NNP B-NP B-Brand
+Casual NNP B-NP B-occasion
+Sleeveless NNP B-NP B-StichType
+Solid NNP B-NP O
+Women NNP B-NP B-target
+'s NNP B-NP I-target
+Top NNP B-NP B-ItemType
+Price NNP B-NP O
+: NNP B-NP O
+
+Rs NNP B-NP O
+. NNP B-NP O
+
+545 NNP B-NP O
+Get NNP B-NP O
+your NNP B-NP O
+hands NNP B-NP O
+on NNP B-NP O
+this NNP B-NP O
+trendy NNP B-NP O
+yet NNP B-NP O
+comfortable NNP B-NP O
+top NNP B-NP B-ItemType
+made NNP B-NP O
+from NNP B-NP O
+Soie NNP B-NP B-ORG
+keeping NNP B-NP O
+your NNP B-NP O
+comfort NNP B-NP O
+in NNP B-NP O
+mind NNP B-NP O
+. NNP B-NP O
+
+Just NNP B-NP O
+slip NNP B-NP O
+it NNP B-NP O
+on NNP B-NP O
+with NNP B-NP O
+your NNP B-NP O
+favourite NNP B-NP O
+jeans NNP B-NP B-ItemType
+and NNP B-NP O
+turn NNP B-NP O
+on NNP B-NP O
+the NNP B-NP O
+charming NNP B-NP O
+side NNP B-NP O
+of NNP B-NP O
+you NNP B-NP O
+. NNP B-NP O
+
+Just NNP B-NP O
+a NNP B-NP O
+watch NNP B-NP B-ItemType
+and NNP B-NP O
+earrings NNP B-NP B-ItemType
+will NNP B-NP O
+be NNP B-NP O
+the NNP B-NP O
+ideal NNP B-NP O
+accessories NNP B-NP O
+to NNP B-NP O
+flaunt NNP B-NP O
+the NNP B-NP O
+chilled NNP B-NP O
+out NNP B-NP O
+side NNP B-NP O
+of NNP B-NP O
+you NNP B-NP O
+. NNP B-NP O
+
+Varanga NNP B-NP O
+
+Casual NNP B-NP B-occasion
+Short NNP B-NP B-StichType
+Sleeve NNP B-NP I-StichType
+Printed NNP B-NP O
+Women NNP B-NP B-target
+'s NNP B-NP I-target
+Top NNP B-NP B-ItemType
+- NNP B-NP O
+Buy NNP B-NP O
+White NNP B-NP B-color
+Varanga NNP B-NP O
+Casual NNP B-NP B-occasion
+Short NNP B-NP B-StichType
+Sleeve NNP B-NP I-StichType
+
+Printed NNP B-NP O
+Women NNP B-NP B-target
+'s NNP B-NP I-target
+Top NNP B-NP B-ItemType
+For NNP B-NP O
+Only NNP B-NP O
+Rs NNP B-NP O
+. NNP B-NP O
+
+1199 NNP B-NP O
+Online NNP B-NP O
+in NNP B-NP O
+India NNP B-NP O
+. NNP B-NP O
+
+Shop NNP B-NP O
+Online NNP B-NP O
+For NNP B-NP O
+Apparels NNP B-NP O
+. NNP B-NP O
+
+Huge NNP B-NP O
+Collection NNP B-NP O
+of NNP B-NP O
+Branded NNP B-NP O
+Clothes NNP B-NP O
+Only NNP B-NP O
+at NNP B-NP O
+Flipkart.com NNP B-NP O
+
+Lovelady NNP B-NP O
+Wedding NNP B-NP B-occasion
+Lingerie NNP B-NP B-ItemType
+Set NNP B-NP O
+Price NNP B-NP O
+: NNP B-NP O
+
+Rs NNP B-NP O
+. NNP B-NP O
+725 NNP B-NP O
+
+This NNP B-NP O
+Product NNP B-NP O
+Will NNP B-NP O
+Fit NNP B-NP O
+
+In NNP B-NP O
+Your NNP B-NP O
+Wardrobe NNP B-NP O
+, NNP B-NP O
+This NNP B-NP O
+Wedding NNP B-NP B-occasion
+Set NNP B-NP O
+Is NNP B-NP O
+Good NNP B-NP O
+Combination NNP B-NP O
+Of NNP B-NP O
+Comfort NNP B-NP O
+
+And NNP B-NP O
+Fashion NNP B-NP O
+
+This NNP B-NP O
+Is NNP B-NP O
+The NNP B-NP O
+Perfect NNP B-NP O
+Lingerie NNP B-NP B-ItemType
+Set NNP B-NP O
+
+Which NNP B-NP O
+Womens NNP B-NP B-target
+Wants NNP B-NP O
+Retaaz NNP B-NP O
+Casual NNP B-NP B-occasion
+, NNP B-NP O
+Party NNP B-NP B-occasion
+, NNP B-NP O
+Festive NNP B-NP B-occasion
+Sleeveless NNP B-NP B-StichType
+Floral NNP B-NP O
+Print NNP B-NP O
+Women NNP B-NP B-target
+'s NNP B-NP I-target
+Top NNP B-NP B-ItemType
+- NNP B-NP O
+Buy NNP B-NP O
+Pink NNP B-NP B-color
+Retaaz NNP B-NP O
+Casual NNP B-NP B-occasion
+, NNP B-NP O
+Party NNP B-NP B-occasion
+, NNP B-NP O
+Festive NNP B-NP B-occasion
+Sleeveless NNP B-NP B-StichType
+Floral NNP B-NP O
+Print NNP B-NP O
+Women NNP B-NP B-target
+'s NNP B-NP I-target
+Top NNP B-NP B-ItemType
+For NNP B-NP O
+Only NNP B-NP O
+Rs NNP B-NP O
+. NNP B-NP O
+
+2999 NNP B-NP O
+
+Online NNP B-NP O
+in NNP B-NP O
+India NNP B-NP O
+. NNP B-NP O
+
+Shop NNP B-NP O
+Online NNP B-NP O
+For NNP B-NP O
+Apparels NNP B-NP O
+. NNP B-NP O
+
+Huge NNP B-NP O
+Collection NNP B-NP O
+of NNP B-NP O
+Branded NNP B-NP O
+Clothes NNP B-NP O
+Only NNP B-NP O
+at NNP B-NP O
+Flipkart.com NNP B-NP O
+
+Elson NNP B-NP O
+Self NNP B-NP O
+Design NNP B-NP O
+
+V NNP B-NP B-StichType
+- NNP B-NP I-StichType
+neck NNP B-NP I-StichType
+
+Women NNP B-NP B-target
+'s NNP B-NP I-target
+Sweater NNP B-NP B-ItemType
+- NNP B-NP O
+Buy NNP B-NP O
+Yellow NNP B-NP B-color
+Elson NNP B-NP O
+
+Self NNP B-NP O
+Design NNP B-NP O
+V NNP B-NP B-StichType
+- NNP B-NP I-StichType
+neck NNP B-NP I-StichType
+
+Women NNP B-NP B-target
+'s NNP B-NP I-target
+Sweater NNP B-NP B-ItemType
+For NNP B-NP O
+Only NNP B-NP O
+Rs NNP B-NP O
+. NNP B-NP O
+
+1595 NNP B-NP O
+Online NNP B-NP O
+in NNP B-NP O
+India NNP B-NP O
+. NNP B-NP O
+
+Shop NNP B-NP O
+Online NNP B-NP O
+For NNP B-NP O
+Apparels NNP B-NP O
+. NNP B-NP O
+
+Huge NNP B-NP O
+Collection NNP B-NP O
+of NNP B-NP O
+Branded NNP B-NP O
+Clothes NNP B-NP O
+Only NNP B-NP O
+at NNP B-NP O
+Flipkart.com NNP B-NP O
+
+Hangover NNP B-NP O
+Solid NNP B-NP O
+Round NNP B-NP B-StichType
+Neck NNP B-NP I-StichType
+Women NNP B-NP B-target
+'s NNP B-NP I-target
+Sweater NNP B-NP B-ItemType
+- NNP B-NP O
+Buy NNP B-NP O
+Cloudy NNP B-NP O
+Sky NNP B-NP O
+Hangover NNP B-NP O
+Solid NNP B-NP O
+Round NNP B-NP B-StichType
+Neck NNP B-NP I-StichType
+Women NNP B-NP B-target
+'s NNP B-NP I-target
+Sweater NNP B-NP B-ItemType
+For NNP B-NP O
+Only NNP B-NP O
+Rs NNP B-NP O
+. NNP B-NP O
+
+1599 NNP B-NP O
+Online NNP B-NP O
+in NNP B-NP O
+India NNP B-NP O
+. NNP B-NP O
+
+Shop NNP B-NP O
+Online NNP B-NP O
+For NNP B-NP O
+Apparels NNP B-NP O
+. NNP B-NP O
+
+Huge NNP B-NP O
+Collection NNP B-NP O
+of NNP B-NP O
+Branded NNP B-NP O
+Clothes NNP B-NP O
+Only NNP B-NP O
+at NNP B-NP O
+Flipkart.com NNP B-NP O
+
+Kids NNP B-NP B-target
+On NNP B-NP O
+Board NNP B-NP O
+Girl NNP B-NP B-target
+'s NNP B-NP I-target
+Gathered NNP B-NP O
+Dress NNP B-NP O
+Price NNP B-NP O
+: NNP B-NP O
+
+Rs NNP B-NP O
+. NNP B-NP O
+699 NNP B-NP O
+
+She NNP B-NP O
+'ll NNP B-NP O
+be NNP B-NP O
+ready NNP B-NP O
+to NNP B-NP O
+celebrate NNP B-NP O
+the NNP B-NP O
+weather NNP B-NP O
+in NNP B-NP O
+this NNP B-NP O
+blue NNP B-NP B-color
+color NNP B-NP O
+butterfly NNP B-NP O
+print NNP B-NP O
+dress NNP B-NP O
+from NNP B-NP O
+KOB NNP B-NP O
+. NNP B-NP O
+
+The NNP B-NP O
+cotton NNP B-NP B-fabric
+fabric NNP B-NP O
+will NNP B-NP O
+keep NNP B-NP O
+her NNP B-NP O
+cool NNP B-NP O
+and NNP B-NP O
+comfortable NNP B-NP O
+throughout NNP B-NP O
+the NNP B-NP O
+day NNP B-NP O
+. NNP B-NP O
+
+This NNP B-NP O
+sleeveless NNP B-NP B-StichType
+dress NNP B-NP O
+with NNP B-NP O
+straps NNP B-NP O
+is NNP B-NP O
+fuss NNP B-NP O
+fress NNP B-NP O
+for NNP B-NP O
+dressing NNP B-NP O
+. NNP B-NP O
+
+Therefore NNP B-NP O
+a NNP B-NP O
+perfect NNP B-NP O
+add NNP B-NP O
+on NNP B-NP O
+to NNP B-NP O
+your NNP B-NP O
+girl NNP B-NP B-target
+'s NNP B-NP I-target
+wardrobe NNP B-NP O
+. NNP B-NP O
+
+Key NNP B-NP O
+Features NNP B-NP O
+of NNP B-NP O
+Raymond NNP B-NP B-Brand
+Checkered NNP B-NP O
+Men NNP B-NP B-target
+'s NNP B-NP I-target
+Waistcoat NNP B-NP B-ItemType
+Fabric NNP B-NP O
+: NNP B-NP O
+Cotton NNP B-NP B-fabric
+Color NNP B-NP O
+: NNP B-NP O
+
+Blue NNP B-NP B-color
+, NNP B-NP O
+Specifications NNP B-NP O
+of NNP B-NP O
+Raymond NNP B-NP B-Brand
+Checkered NNP B-NP O
+Men NNP B-NP B-target
+'s NNP B-NP I-target
+Waistcoat NNP B-NP B-ItemType
+General NNP B-NP O
+Details NNP B-NP O
+Pattern NNP B-NP O
+Checkered NNP B-NP O
+Ideal NNP B-NP O
+For NNP B-NP O
+Men NNP B-NP B-target
+'s NNP B-NP I-target
+Waistcoat NNP B-NP B-ItemType
+Details NNP B-NP O
+Fabric NNP B-NP O
+Cotton NNP B-NP B-fabric
+Additional NNP B-NP O
+Details NNP B-NP O
+Style NNP B-NP O
+Code NNP B-NP O
+
+RIVX00006-B5 NNP B-NP O
