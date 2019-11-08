@@ -458,6 +458,7 @@ def main():
     global_step = 0
     nb_tr_steps = 0
     tr_loss = 0
+    i=0
     label_map = {i : label for i, label in enumerate(label_list,0)}
     if args.do_train:
         train_features = convert_examples_to_features(
